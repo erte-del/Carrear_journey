@@ -7,7 +7,7 @@ My dads career displayed in HTML, made for his birthday
 Tap anywhere on the page to turn the music on.
 
 - Run it on your own computer
-1. Download [index.html](https://raw.githubusercontent.com/erte-del/Carrear_journey/main/index.html)** (right-click the link → *Save Link As…*), or click the green **Code** button → **Download ZIP
+1. Download [index.html](https://raw.githubusercontent.com/erte-del/Carrear_journey/main/index.html) (right-click the link → *Save Link As…*), or click the green **Code** button → Download ZIP
 2. Double-click `index.html` to open it in any web browser. Nothing to install.
 
 - Controls
